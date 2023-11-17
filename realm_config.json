@@ -1,0 +1,8 @@
+{
+    "app_id": "ironsight-nazdd",
+    "config_version": 20210101,
+    "name": "IronSight",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
